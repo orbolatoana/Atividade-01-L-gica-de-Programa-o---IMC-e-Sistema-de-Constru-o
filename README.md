@@ -1,1 +1,8 @@
-# Atividade-01-L-gica-de-Programa-o---IMC-e-Sistema-de-Constru-o
+# Atividade 01: Lógica de Programação - IMC e Sistema de Construção
+
+### Exercício 1:
+ 
+ ksfjskfnjkdf 
+
+### Exercício 2: 
+
